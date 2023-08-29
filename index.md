@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-My name is Gabe hello!
+My name is Gabe hello! 
 
 ### Markdown
 
